@@ -1,0 +1,22 @@
+.app-container {
+	margin: 0 auto;
+	margin-top: 70px;
+	margin-bottom: 60px;
+}
+
+.full-width {
+	width: 60vw;
+}
+
+.side-width {
+	width: 18vw;
+	margin-right: 1vw;
+	margin-left: 1vw;
+}
+
+.anchor {
+	display: block;
+	position: relative;
+	top: -70px;
+	visibility: hidden;
+}

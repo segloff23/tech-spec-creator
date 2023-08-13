@@ -1,0 +1,25 @@
+.sidebar-right {
+	position: fixed;
+	right: 0;
+	z-index: 2;
+	height: 100vh;
+}
+
+.action-sidebar-button {
+	height: 5vh;
+	width: 100%;
+}
+
+.action-sidebar-modified {
+	max-height: 52vh;
+	overflow-y: auto;
+}
+
+.nav-link-text {
+	color: black;
+	text-decoration: none;
+}
+
+.action-sidebar-invalid {
+	color: red;
+}
